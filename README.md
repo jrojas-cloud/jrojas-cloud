@@ -4,11 +4,11 @@
 
 <p align="center">
   🔐 Cybersecurity | ☁️ AWS | ⚙️ Oracle Integration  & SOA Oracle
+  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
+  ![Cybersecurity](https://img.shields.io/badge/Security-000000?style=for-the-badge&logo=hackthebox&logoColor=green)&nbsp;
 </p>
 ---
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Security-000000?style=for-the-badge&logo=hackthebox&logoColor=green)
 
 ## 👨‍💻 About Me
 
@@ -60,6 +60,9 @@ Apart from that, I am passionate about cybersecurity, cloud technologies, and co
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)&nbsp; 
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
+![Cybersecurity](https://img.shields.io/badge/Security-000000?style=for-the-badge&logo=hackthebox&logoColor=green)&nbsp;
 
 #### IDEs
 
