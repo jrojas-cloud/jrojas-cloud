@@ -102,6 +102,13 @@ Passionate about cloud (AWS/Azure), cybersecurity, and continuous learning in pe
   
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/jairo-rojas-5810a93b9/)
 
+###
+
+<div align="center">
+  <img height="100" src="https://www.google.com/search?q=pokemon+gif+wallpaper&sca_esv=a34d0b4f4b0c4824&udm=2&biw=1745&bih=901&sxsrf=ANbL-n5cO1nnIZ0Kwx7poVhljGJ77_0NhA%3A1774369830042&ei=JrzCaYaoAojckPIPocqciAY&oq=pokemon+gif&gs_lp=Egtnd3Mtd2l6LWltZyILcG9rZW1vbiBnaWYqAggEMgoQABiABBhDGIoFMgUQABiABDIKEAAYgAQYQxiKBTIKEAAYgAQYQxiKBTIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABEi_FFAAWABwAngAkAEAmAEAoAEAqgEAuAEByAEAmAICoAINmAMAiAYBkgcBMqAHALIHALgHAMIHAzItMsgHC4AIAA&sclient=gws-wiz-img#sv=CAMSVhoyKhBlLUk4bmFfWEFPOWx4LVpNMg5JOG5hX1hBTzlseC1aTToOcUVnQzRkNjFyQ2paTk0gBCocCgZtb3NhaWMSEGUtSThuYV9YQU85bHgtWk0YADABGAcgo_7Cmw8wAkoIEAEYASABKAE"  />
+</div>
+
+###
 
 <!-- 
 ----
