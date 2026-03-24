@@ -73,29 +73,27 @@
 
 ## 👨‍💻 About Me
 
-I am a Cloud & Cybersecurity Engineer specialized in Oracle Integration technologies and enterprise systems. I have solid experience working with Oracle Integration Cloud (OIC), SOA Suite, OSB, and ERP Cloud, building complex integrations, automation solutions, and secure architectures across multiple industries.
+Cloud & Cybersecurity Engineer specialized in Oracle integrations and enterprise systems (OIC, SOA, OSB, ERP Cloud). Experienced in building secure, scalable architectures and automation solutions.
 
-Apart from that, I am passionate about cybersecurity, cloud technologies, and continuously improving my skills in AWS, pentesting, and modern infrastructure.
+Passionate about cloud (AWS/Azure), cybersecurity, and continuous learning in pentesting and modern infrastructure.
 
-**My Areas of Interest**:
+**Interests**
 - Cloud Architecture (AWS & Azure)
 - Cybersecurity & Pentesting
 - Secure System Design
-- Integration & Automation (Oracle OIC, SOA Suite, OSB, APIs)
-- Data Analysis & SQL Optimization
+- Integration & APIs
+- Data & SQL Optimization
 
-**I am open to**:
-
-- collaboration on cloud and cybersecurity projects,
-- enterprise integration and automation initiatives,
-- cloud architecture and DevOps-related work,
-- cybersecurity research, labs, and knowledge sharing.  
+**Open to**
+- Cloud & cybersecurity projects
+- Integration & automation initiatives
+- DevOps & cloud architecture
+- Security research & labs 
 
 ## 📊 GitHub Analytics
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=jrojas-cloud&show_icons=true&theme=radical)
 ![Streak](https://streak-stats.demolab.com?user=jrojas-cloud&theme=radical)
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=jrojas-cloud&theme=react-dark)
 
 ## Skills:
 
