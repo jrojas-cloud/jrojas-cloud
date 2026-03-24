@@ -64,7 +64,9 @@ Apart from that, I am passionate about cybersecurity, cloud technologies, and co
 
 ## Connect with me:
 <p align = "center">
+  
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/jairo-rojas-5810a93b9/)
+
 </p>
 
 
