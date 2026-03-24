@@ -1,4 +1,4 @@
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Jairo%20Rojas&fontSize=40&fontColor=ffffff)
+![banner](https://capsule-render.vercel.app/api?type=rect&height=300&color=gradient&text=Input%20text&textBg=false)
 
 <h1 align="center">🚀 Jairo Rojas | Cloud & Cybersecurity Engineer</h1>
 
