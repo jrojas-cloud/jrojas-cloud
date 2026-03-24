@@ -1,15 +1,13 @@
 ![banner](https://capsule-render.vercel.app/api?type=rect&height=170&color=gradient&text=Jairo%20Rojas)
-
 <h1 align="center">🚀 Jairo Rojas | Cloud & Cybersecurity Engineer</h1>
-
 <p align="center">
   🔐 Cybersecurity | ☁️ AWS | ⚙️ Oracle Integration  & SOA Oracle
+</p>
+---
   ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
   ![Cybersecurity](https://img.shields.io/badge/Security-000000?style=for-the-badge&logo=hackthebox&logoColor=green)&nbsp;
-</p>
----
-
+  
 ## 👨‍💻 About Me
 
 I am a Cloud & Cybersecurity Engineer specialized in Oracle Integration technologies and enterprise systems. I have solid experience working with Oracle Integration Cloud (OIC), SOA Suite, OSB, and ERP Cloud, building complex integrations, automation solutions, and secure architectures across multiple industries.
