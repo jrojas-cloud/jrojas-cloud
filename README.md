@@ -62,10 +62,10 @@ Apart from that, I am passionate about cybersecurity, cloud technologies, and co
 
 ## 📊 GitHub Analytics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)
-![Streak](https://streak-stats.demolab.com?user=TU_USUARIO&theme=radical)
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=react-dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=jrojas-cloud&show_icons=true&theme=radical)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrojas-cloud&layout=compact&theme=radical)
+![Streak](https://streak-stats.demolab.com?user=jrojas-cloud&theme=radical)
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=jrojas-cloud&theme=react-dark)
 
 ## Skills:
 
