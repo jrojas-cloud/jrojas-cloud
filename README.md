@@ -10,13 +10,23 @@
 
 ## 👨‍💻 About Me
 
-I am a consultant specialized in enterprise integrations with a strong focus on cloud and cybersecurity.
+I am a Cloud & Cybersecurity Engineer specialized in Oracle Integration technologies and enterprise systems. I have solid experience working with Oracle Integration Cloud (OIC), SOA Suite, OSB, and ERP Cloud, building complex integrations, automation solutions, and secure architectures across multiple industries.
 
-- 💼 Oracle Integration Cloud (OIC) & Oracle ERP Cloud  
-- 🔐 Focused on Pentesting and Security  
-- ☁️ Currently learning AWS  
-- ⚙️ Process and integration automation  
-- 📊 Advanced SQL and data analysis  
+Apart from that, I am passionate about cybersecurity, cloud technologies, and continuously improving my skills in AWS, pentesting, and modern infrastructure.
+
+**My Areas of Interest**:
+- Cloud Architecture (AWS & Azure)
+- Cybersecurity & Pentesting
+- Secure System Design
+- Integration & Automation (Oracle OIC, SOA Suite, OSB, APIs)
+- Data Analysis & SQL Optimization
+
+**I am open to**:
+
+- collaboration on cloud and cybersecurity projects,
+- enterprise integration and automation initiatives,
+- cloud architecture and DevOps-related work,
+- cybersecurity research, labs, and knowledge sharing.  
 
 ## Skills:
 
