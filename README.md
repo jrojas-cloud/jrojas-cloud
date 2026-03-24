@@ -1,4 +1,6 @@
-![banner](https://capsule-render.vercel.app/api?type=rect&height=300&color=gradient&text=Input%20text&textBg=false)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=150&color=gradient&text=Input%20text&textBg=false&reversal=false"/>
+</p>
 
 <h1 align="center">🚀 Jairo Rojas | Cloud & Cybersecurity Engineer</h1>
 
