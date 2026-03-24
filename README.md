@@ -1,7 +1,8 @@
 ![banner](https://capsule-render.vercel.app/api?type=rect&height=170&color=gradient&text=Jairo%20Rojas)
-<h1 align="center">🚀 Jairo Rojas | Cloud & Cybersecurity Engineer</h1>
+<h1 align="center">💀 Jairo Rojas | Cloud & Cybersecurity Engineer</h1>
 <p align="center">
-  🔐 Cybersecurity | ☁️ AWS | ⚙️ Oracle Integration  & SOA Oracle
+  ⚡ Cybersecurity | ☁️ AWS | ⚙️ Oracle Integration  & SOA Oracle
+  🚀 Building secure cloud architectures
 </p>
 
 ## ⚡ Tech Stack & Cyber Arsenal
@@ -15,9 +16,12 @@
 ![Oracle OIC](https://img.shields.io/badge/OIC-FF0000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
 ![SOA Suite](https://img.shields.io/badge/SOA_Suite-FF0000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
 ![WebLogic](https://img.shields.io/badge/WebLogic-FF0000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
+![MuleSoft](https://img.shields.io/badge/MuleSoft-0A0A0A?style=for-the-badge&logo=mulesoft&logoColor=00A1DF)&nbsp;
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=orange)&nbsp;
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)&nbsp;
+![SAP](https://img.shields.io/badge/SAP-0A0A0A?style=for-the-badge&logo=sap&logoColor=0FAAFF)&nbsp;
+![Salesforce](https://img.shields.io/badge/Salesforce-0A0A0A?style=for-the-badge&logo=salesforce&logoColor=00D8FF)&nbsp;
 
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=blue)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=blue)&nbsp;
