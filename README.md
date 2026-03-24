@@ -4,9 +4,41 @@
   🔐 Cybersecurity | ☁️ AWS | ⚙️ Oracle Integration  & SOA Oracle
 </p>
 
-  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
-  ![Cybersecurity](https://img.shields.io/badge/Security-000000?style=for-the-badge&logo=hackthebox&logoColor=green)&nbsp;
+## ⚡ Tech Stack & Cyber Arsenal
+
+![Cybersecurity](https://img.shields.io/badge/Security-000000?style=for-the-badge&logo=hackthebox&logoColor=green)&nbsp;
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=yellow)&nbsp;
+
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-FF0000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
+![Oracle OIC](https://img.shields.io/badge/OIC-FF0000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
+![SOA Suite](https://img.shields.io/badge/SOA_Suite-FF0000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
+![WebLogic](https://img.shields.io/badge/WebLogic-FF0000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=orange)&nbsp;
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)&nbsp;
+
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=blue)&nbsp;
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=blue)&nbsp;
+
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=blue)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=orange)&nbsp;
+![Oracle DB](https://img.shields.io/badge/Oracle_DB-000000?style=for-the-badge&logo=oracle&logoColor=red)&nbsp;
+
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=red)&nbsp;
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=yellow)&nbsp;
+
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=orange)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-000000?style=for-the-badge&logo=azuredevops&logoColor=blue)&nbsp;
+
+![APEX](https://img.shields.io/badge/Oracle_APEX-000000?style=for-the-badge&logo=oracle&logoColor=red)&nbsp;
+![OTBI](https://img.shields.io/badge/OTBI-000000?style=for-the-badge&logo=oracle&logoColor=red)&nbsp;
+![BI Publisher](https://img.shields.io/badge/BI_Publisher-000000?style=for-the-badge&logo=oracle&logoColor=red)&nbsp;
+
+![Networking](https://img.shields.io/badge/Networking-000000?style=for-the-badge&logo=cisco&logoColor=blue)&nbsp;
+![Pentesting](https://img.shields.io/badge/Pentesting-000000?style=for-the-badge&logo=hackthebox&logoColor=green)&nbsp;
   
 ## 👨‍💻 About Me
 
@@ -30,51 +62,8 @@ Apart from that, I am passionate about cybersecurity, cloud technologies, and co
 
 ## Skills:
 
-#### Languages:
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-
-#### ML/DL
-
-![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
-![Fast API](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)&nbsp;
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-
-#### Database
-
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-
-#### Tools and Technologies
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)&nbsp; 
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
-![Cybersecurity](https://img.shields.io/badge/Security-000000?style=for-the-badge&logo=hackthebox&logoColor=green)&nbsp;
-
-#### IDEs
-
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)&nbsp;
-
-
 ## Connect with me:
-
 <p align = "center">
-
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/jairo-rojas-5810a93b9/)
 </p>
 
