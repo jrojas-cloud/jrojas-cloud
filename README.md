@@ -7,6 +7,8 @@
 
 ## ⚡ Tech Stack & Cyber Arsenal
 
+## ⚡ Tech Stack & Cyber Arsenal
+
 ## 🔐 Cybersecurity
 
 ![Cybersecurity](https://img.shields.io/badge/Security-000000?style=for-the-badge&logo=hackthebox&logoColor=green)&nbsp;
@@ -17,21 +19,23 @@
 
 ---
 
-## ☁️ Cloud
+## ☁️ Cloud (IaaS / PaaS)
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=orange)&nbsp;
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)&nbsp;
 ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-FF0000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
-![SAP](https://img.shields.io/badge/SAP-0A0A0A?style=for-the-badge&logo=sap&logoColor=0FAAFF)&nbsp;
-![Salesforce](https://img.shields.io/badge/Salesforce-0A0A0A?style=for-the-badge&logo=salesforce&logoColor=00D8FF)&nbsp;
+
 ---
 
-## 🔗 Integration
+## 🔗 Integration & Enterprise Systems 💀
 
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
 ![Oracle OIC](https://img.shields.io/badge/OIC-FF0000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
 ![SOA Suite](https://img.shields.io/badge/SOA_Suite-FF0000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
 ![WebLogic](https://img.shields.io/badge/WebLogic-FF0000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
 ![MuleSoft](https://img.shields.io/badge/MuleSoft-0A0A0A?style=for-the-badge&logo=mulesoft&logoColor=00A1DF)&nbsp;
+![SAP](https://img.shields.io/badge/SAP-0A0A0A?style=for-the-badge&logo=sap&logoColor=0FAAFF)&nbsp;
+![Salesforce](https://img.shields.io/badge/Salesforce-0A0A0A?style=for-the-badge&logo=salesforce&logoColor=00D8FF)&nbsp;
 
 ---
 
