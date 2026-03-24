@@ -7,42 +7,57 @@
 
 ## ⚡ Tech Stack & Cyber Arsenal
 
+## 🔐 Cybersecurity
+
 ![Cybersecurity](https://img.shields.io/badge/Security-000000?style=for-the-badge&logo=hackthebox&logoColor=green)&nbsp;
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=yellow)&nbsp;
+![Pentesting](https://img.shields.io/badge/Pentesting-000000?style=for-the-badge&logo=hackthebox&logoColor=green)&nbsp;
+![Networking](https://img.shields.io/badge/Networking-000000?style=for-the-badge&logo=cisco&logoColor=blue)&nbsp;
 
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-FF0000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
-![Oracle OIC](https://img.shields.io/badge/OIC-FF0000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
-![SOA Suite](https://img.shields.io/badge/SOA_Suite-FF0000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
-![WebLogic](https://img.shields.io/badge/WebLogic-FF0000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
+---
+
+## ☁️ Cloud
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=orange)&nbsp;
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)&nbsp;
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-FF0000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
+
+---
+
+## 🔗 Integration (TU DIFERENCIADOR 💀)
+
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
+![Oracle OIC](https://img.shields.io/badge/OIC-FF0000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
+![SOA Suite](https://img.shields.io/badge/SOA_Suite-FF0000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
+![WebLogic](https://img.shields.io/badge/WebLogic-FF0000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
+![MuleSoft](https://img.shields.io/badge/MuleSoft-0A0A0A?style=for-the-badge&logo=mulesoft&logoColor=00A1DF)&nbsp;
 ![SAP](https://img.shields.io/badge/SAP-0A0A0A?style=for-the-badge&logo=sap&logoColor=0FAAFF)&nbsp;
 ![Salesforce](https://img.shields.io/badge/Salesforce-0A0A0A?style=for-the-badge&logo=salesforce&logoColor=00D8FF)&nbsp;
-![MuleSoft](https://img.shields.io/badge/MuleSoft-0A0A0A?style=for-the-badge&logo=mulesoft&logoColor=00A1DF)&nbsp;
 
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=blue)&nbsp;
-![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=blue)&nbsp;
+---
 
+## ⚙️ Dev & Data
+
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=red)&nbsp;
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=yellow)&nbsp;
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=blue)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=orange)&nbsp;
 ![Oracle DB](https://img.shields.io/badge/Oracle_DB-000000?style=for-the-badge&logo=oracle&logoColor=red)&nbsp;
 
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=red)&nbsp;
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=yellow)&nbsp;
+---
 
+## 🚀 DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=blue)&nbsp;
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=blue)&nbsp;
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=orange)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-000000?style=for-the-badge&logo=azuredevops&logoColor=blue)&nbsp;
 
-![APEX](https://img.shields.io/badge/Oracle_APEX-000000?style=for-the-badge&logo=oracle&logoColor=red)&nbsp;
-![OTBI](https://img.shields.io/badge/OTBI-000000?style=for-the-badge&logo=oracle&logoColor=red)&nbsp;
-![BI Publisher](https://img.shields.io/badge/BI_Publisher-000000?style=for-the-badge&logo=oracle&logoColor=red)&nbsp;
+---
 
-![Networking](https://img.shields.io/badge/Networking-000000?style=for-the-badge&logo=cisco&logoColor=blue)&nbsp;
-![Pentesting](https://img.shields.io/badge/Pentesting-000000?style=for-the-badge&logo=hackthebox&logoColor=green)&nbsp;
+## 🤖 AI & Data
 
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=meta&logoColor=blue)&nbsp;
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=databricks&logoColor=green)&nbsp;
@@ -50,7 +65,7 @@
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge&logo=database&logoColor=purple)&nbsp;
 ![Azure AI](https://img.shields.io/badge/Azure_AI-000000?style=for-the-badge&logo=microsoftazure&logoColor=blue)&nbsp;
 ![AWS AI](https://img.shields.io/badge/AWS_AI-000000?style=for-the-badge&logo=amazonaws&logoColor=orange)&nbsp;
-  
+
 ## 👨‍💻 About Me
 
 I am a Cloud & Cybersecurity Engineer specialized in Oracle Integration technologies and enterprise systems. I have solid experience working with Oracle Integration Cloud (OIC), SOA Suite, OSB, and ERP Cloud, building complex integrations, automation solutions, and secure architectures across multiple industries.
