@@ -3,41 +3,41 @@
 <h1 align="center">🚀 Jairo Rojas | Cloud & Cybersecurity Engineer</h1>
 
 <p align="center">
-  🔐 Ciberseguridad | ☁️ AWS | ⚙️ Oracle Integration
+  🔐 Cybersecurity | ☁️ AWS | ⚙️ Oracle Integration
 </p>
 
 ---
 
-## 👨‍💻 Sobre mí
+## 👨‍💻 About Me
 
-Soy consultor especializado en integraciones empresariales con enfoque en cloud y ciberseguridad.
+I am a consultant specialized in enterprise integrations with a strong focus on cloud and cybersecurity.
 
 - 💼 Oracle Integration Cloud (OIC) & Oracle ERP Cloud  
-- 🔐 Enfocado en Pentesting y Seguridad  
-- ☁️ Actualmente aprendiendo AWS  
-- ⚙️ Automatización de procesos e integraciones  
-- 📊 SQL avanzado y análisis de datos  
+- 🔐 Focused on Pentesting and Security  
+- ☁️ Currently learning AWS  
+- ⚙️ Process and integration automation  
+- 📊 Advanced SQL and data analysis  
 
 ---
 
-## ⚙️ Tecnologías
+## ⚙️ Technologies
 
 ### ☁️ Cloud
-- AWS (en progreso)
+- AWS (in progress)
 - Azure
 
-### 🔗 Integración
+### 🔗 Integration
 - Oracle Integration Cloud (OIC)  
 - SOA Suite  
 - OSB  
 - WebLogic  
 
-### 🗄️ Base de Datos
+### 🗄️ Databases
 - Oracle DB  
 - MySQL  
-- SQL avanzado  
+- Advanced SQL  
 
-### 🔐 Ciberseguridad
+### 🔐 Cybersecurity
 - Kali Linux  
 - Nmap  
 - Metasploit  
@@ -53,29 +53,29 @@ Soy consultor especializado en integraciones empresariales con enfoque en cloud 
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Featured Projects
 
-- 🔗 Integraciones Oracle ERP Cloud  
-- 🔐 Laboratorios de ciberseguridad  
-- ☁️ Proyecto AWS (en desarrollo)  
-
----
-
-## 📚 Actualmente aprendiendo
-
-- ☁️ Arquitectura en AWS  
-- 🔐 Pentesting avanzado  
-- ⚙️ Automatización con scripts  
+- 🔗 Oracle ERP Cloud Integrations  
+- 🔐 Cybersecurity Labs  
+- ☁️ AWS Project (in progress)  
 
 ---
 
-## 📫 Contacto
+## 📚 Currently Learning
+
+- ☁️ AWS Cloud Architecture  
+- 🔐 Advanced Pentesting  
+- ⚙️ Automation with scripts  
+
+---
+
+## 📫 Contact
 
 - 💼 LinkedIn: https://linkedin.com/in/TU_LINK  
-- 📧 Email: tucorreo@email.com  
+- 📧 Email: your@email.com  
 
 ---
 
-## 🧩 Filosofía
+## 🧩 Philosophy
 
-> "Automatiza todo lo que puedas. Protege todo lo que no puedas automatizar."
+> "Automate everything you can. Secure everything you can't."
