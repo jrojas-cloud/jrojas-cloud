@@ -25,7 +25,7 @@
 
 ---
 
-## 🔗 Integration (TU DIFERENCIADOR 💀)
+## 🔗 Integration
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
 ![Oracle OIC](https://img.shields.io/badge/OIC-FF0000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
