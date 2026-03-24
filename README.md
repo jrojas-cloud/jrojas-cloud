@@ -18,64 +18,26 @@ I am a consultant specialized in enterprise integrations with a strong focus on 
 - ⚙️ Process and integration automation  
 - 📊 Advanced SQL and data analysis  
 
----
+###
 
-## ⚙️ Technologies
+<h2 align="left">I code with</h2>
 
-### ☁️ Cloud
-- AWS (in progress)
-- Azure
+###
 
-### 🔗 Integration
-- Oracle Integration Cloud (OIC)  
-- SOA Suite  
-- OSB  
-- WebLogic  
-
-### 🗄️ Databases
-- Oracle DB  
-- MySQL  
-- Advanced SQL  
-
-### 🔐 Cybersecurity
-- Kali Linux  
-- Nmap  
-- Metasploit  
-- OSINT  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-- 🔗 Oracle ERP Cloud Integrations  
-- 🔐 Cybersecurity Labs  
-- ☁️ AWS Project (in progress)  
-
----
-
-## 📚 Currently Learning
-
-- ☁️ AWS Cloud Architecture  
-- 🔐 Advanced Pentesting  
-- ⚙️ Automation with scripts  
-
----
-
-## 📫 Contact
-
-- 💼 LinkedIn: https://linkedin.com/in/TU_LINK  
-- 📧 Email: your@email.com  
-
----
-
-## 🧩 Philosophy
-
-> "Automate everything you can. Secure everything you can't."
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+</div>
