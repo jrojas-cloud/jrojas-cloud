@@ -1,13 +1,10 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=150&color=gradient&text=Input%20text&textBg=false&reversal=false"/>
-</p>
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Jairo%20Rojas&fontSize=40&fontColor=ffffff)
 
 <h1 align="center">🚀 Jairo Rojas | Cloud & Cybersecurity Engineer</h1>
 
 <p align="center">
-  🔐 Cybersecurity | ☁️ AWS | ⚙️ Oracle Integration
+  🔐 Cybersecurity | ☁️ AWS | ⚙️ Oracle Integration  & SOA Oracle
 </p>
-
 ---
 
 ## 👨‍💻 About Me
