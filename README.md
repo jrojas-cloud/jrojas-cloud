@@ -1,4 +1,9 @@
-![banner](https://capsule-render.vercel.app/api?type=rect&height=170&color=gradient&text=Jairo%20Rojas)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jrojas-cloud/jrojas-cloud/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jrojas-cloud/jrojas-cloud/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jrojas-cloud/jrojas-cloud/output/pacman-contribution-graph.svg">
+</picture>
+
 <h1 align="center">💀 Jairo Rojas | Cloud & Cybersecurity Engineer</h1>
 <p align="center">
   ⚡ Cybersecurity | ☁️ AWS | ⚙️ Oracle Integration  & SOA Oracle
