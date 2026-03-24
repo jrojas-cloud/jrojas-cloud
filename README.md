@@ -5,12 +5,6 @@
 </picture>
 
 
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
 <h1 align="center">💀 Jairo Rojas | Cloud & Cybersecurity Engineer</h1>
 <p align="center">
   ⚡ Cybersecurity | ☁️ AWS | ⚙️ Oracle Integration  & SOA Oracle
