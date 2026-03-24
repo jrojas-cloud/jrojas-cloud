@@ -4,11 +4,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jrojas-cloud/jrojas-cloud/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
-<p align="left">Hello World!!</p>
-
-###
 
 <div align="center">
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
