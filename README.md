@@ -6,6 +6,9 @@
   🔐 Cybersecurity | ☁️ AWS | ⚙️ Oracle Integration  & SOA Oracle
 </p>
 ---
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Security-000000?style=for-the-badge&logo=hackthebox&logoColor=green)
 
 ## 👨‍💻 About Me
 
