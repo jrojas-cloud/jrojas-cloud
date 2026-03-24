@@ -1,81 +1,98 @@
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Jairo%20Rojas&fontSize=40&fontColor=ffffff)
-
-<h1 align="center">🚀 Jairo Rojas | Cloud & Cybersecurity Engineer</h1>
-
+````markdown
+<!-- BANNER -->
 <p align="center">
-  🔐 Ciberseguridad | ☁️ AWS | ⚙️ Oracle Integration
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Jairo%20Rojas%20%7C%20Cloud%20%26%20Cybersecurity&fontSize=35&fontColor=00ffcc&animation=fadeIn" />
+</p>
+
+<!-- EFECTO HACKER -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFCC&center=true&vCenter=true&lines=Cybersecurity+Specialist;Cloud+Engineer+(AWS+%7C+Oracle);Ethical+Hacker+in+Progress;Automation+%26+Integration+Expert" />
 </p>
 
 ---
 
-## 👨‍💻 Sobre mí
+## 👨‍💻 About Me
+```bash
+> whoami
+Jairo Rojas Méndez
 
-Soy consultor especializado en integraciones empresariales con enfoque en cloud y ciberseguridad.
+> role
+Cloud Engineer | Cybersecurity | Oracle OIC
 
-- 💼 Oracle Integration Cloud (OIC) & Oracle ERP Cloud  
-- 🔐 Enfocado en Pentesting y Seguridad  
-- ☁️ Actualmente aprendiendo AWS  
-- ⚙️ Automatización de procesos e integraciones  
-- 📊 SQL avanzado y análisis de datos  
+> focus
+AWS | Pentesting | Automation | DevSecOps
+````
 
 ---
 
-## ⚙️ Tecnologías
+## 🧰 Tech Stack
 
-### ☁️ Cloud
-- AWS (en progreso)
-- Azure
+<p align="center">
 
-### 🔗 Integración
-- Oracle Integration Cloud (OIC)  
-- SOA Suite  
-- OSB  
-- WebLogic  
+<img src="https://skillicons.dev/icons?i=aws,azure,linux,docker,kubernetes,java,python,mysql,oracle,git,github,html,css,js" />
 
-### 🗄️ Base de Datos
-- Oracle DB  
-- MySQL  
-- SQL avanzado  
-
-### 🔐 Ciberseguridad
-- Kali Linux  
-- Nmap  
-- Metasploit  
-- OSINT  
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0d1117&title_color=00ffcc&icon_color=00ffcc" height="180"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&stroke=00ffcc&ring=00ffcc&fire=00ffcc&currStreakLabel=00ffcc" height="180"/>
 </p>
 
 ---
 
-## 🚀 Proyectos Destacados
+## 📈 Activity Graph
 
-- 🔗 Integraciones Oracle ERP Cloud  
-- 🔐 Laboratorios de ciberseguridad  
-- ☁️ Proyecto AWS (en desarrollo)  
-
----
-
-## 📚 Actualmente aprendiendo
-
-- ☁️ Arquitectura en AWS  
-- 🔐 Pentesting avanzado  
-- ⚙️ Automatización con scripts  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USERNAME&bg_color=0d1117&color=00ffcc&line=00ffcc&point=ffffff&area=true&hide_border=true" />
+</p>
 
 ---
 
-## 📫 Contacto
+## 🧠 Current Mission
 
-- 💼 LinkedIn: https://linkedin.com/in/TU_LINK  
-- 📧 Email: tucorreo@email.com  
+```bash
+[+] Learning AWS Architect
+[+] Practicing Ethical Hacking
+[+] Building Automation Pipelines
+[+] Becoming DevSecOps Engineer
+```
 
 ---
 
-## 🧩 Filosofía
+## 🛡️ Hacker Mode
 
-> "Automatiza todo lo que puedas. Protege todo lo que no puedas automatizar."
+```bash
+while(alive){
+   learn();
+   hack();
+   build();
+   repeat();
+}
+```
+
+---
+
+## 🌐 Connect with me
+
+<p align="center">
+  <a href="https://linkedin.com/in/TU_LINKEDIN">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:TU_CORREO">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+<!-- FOOTER -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+</p>
+```
