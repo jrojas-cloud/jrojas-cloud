@@ -104,10 +104,13 @@ Apart from that, I am passionate about cybersecurity, cloud technologies, and co
   
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/jairo-rojas-5810a93b9/)
 
-</p>
-<p align="center">
-  <img src="https://i.imgur.com/2yaf2wb.gif" width="300">
-</p>
+###
+
+<div align="center">
+  <img height="100" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
+###
 
 <!-- 
 ----
