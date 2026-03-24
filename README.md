@@ -73,7 +73,21 @@
 
 ## 👨‍💻 About Me
 
-Oracle integrations and enterprise systems (OIC, SOA, OSB, ERP Cloud). Experienced in building secure, scalable architectures and automation solutions. Passionate about cloud (AWS/Azure), cybersecurity, and continuous learning in pentesting and modern infrastructure. Interests Cloud Architecture (AWS & Azure) Cybersecurity & Pentesting Secure System Design Integration & APIs Data & SQL Optimization Open to Cloud & cybersecurity projects Integration & automation initiatives DevOps & cloud architecture Security research & labs
+Cloud & Cybersecurity Engineer specialized in Oracle integrations and enterprise systems (OIC, SOA, OSB, ERP Cloud). Experienced in building secure, scalable architectures and automation solutions.
+Passionate about cloud (AWS/Azure), cybersecurity, and continuous learning in pentesting and modern infrastructure.
+
+**Interests**
+- Cloud Architecture (AWS & Azure)
+- Cybersecurity & Pentesting
+- Secure System Design
+- Integration & APIs
+- Data & SQL Optimization
+
+**Open to**
+- Cloud & cybersecurity projects
+- Integration & automation initiatives
+- DevOps & cloud architecture
+- Security research & labs
 
 ## 📊 GitHub Analytics
 
