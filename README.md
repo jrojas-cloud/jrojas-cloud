@@ -1,8 +1,10 @@
-<picture>
+<<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jrojas-cloud/jrojas-cloud/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jrojas-cloud/jrojas-cloud/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jrojas-cloud/jrojas-cloud/output/pacman-contribution-graph.svg">
 </picture>
+
+###
 
 <h1 align="center">💀 Jairo Rojas | Cloud & Cybersecurity Engineer</h1>
 <p align="center">
