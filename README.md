@@ -7,8 +7,6 @@
 
 ## ⚡ Tech Stack & Cyber Arsenal
 
-## ⚡ Tech Stack & Cyber Arsenal
-
 ## 🔐 Cybersecurity
 
 ![Cybersecurity](https://img.shields.io/badge/Security-000000?style=for-the-badge&logo=hackthebox&logoColor=green)&nbsp;
