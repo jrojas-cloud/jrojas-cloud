@@ -92,7 +92,6 @@ Passionate about cloud (AWS/Azure), cybersecurity, and continuous learning in pe
 ## 📊 GitHub Analytics
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=jrojas-cloud&show_icons=true&theme=radical)
-![Streak](https://streak-stats.demolab.com?user=jrojas-cloud&theme=radical)
 
 ## Skills:
 
@@ -102,7 +101,7 @@ Passionate about cloud (AWS/Azure), cybersecurity, and continuous learning in pe
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/jairo-rojas-5810a93b9/)
 
 <div align="center">
-  <img height="100" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="100" src="https://i.imgflip.com/65efzo.gif"/>
 </div>
 
 <!-- 
