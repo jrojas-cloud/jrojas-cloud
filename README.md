@@ -73,21 +73,10 @@
 
 ## 👨‍💻 About Me
 
-Cloud & Cybersecurity Engineer specialized in Oracle integrations and enterprise systems (OIC, SOA, OSB, ERP Cloud). Experienced in building secure, scalable architectures and automation solutions.
-Passionate about cloud (AWS/Azure), cybersecurity, and continuous learning in pentesting and modern infrastructure.
+Cloud & Cybersecurity Engineer especializado en integraciones Oracle (OIC, SOA, OSB, ERP Cloud). Enfocado en arquitecturas seguras, escalables y automatización. Interesado en cloud (AWS/Azure), ciberseguridad y pentesting.
 
-**Interests**
-- Cloud Architecture (AWS & Azure)
-- Cybersecurity & Pentesting
-- Secure System Design
-- Integration & APIs
-- Data & SQL Optimization
-
-**Open to**
-- Cloud & cybersecurity projects
-- Integration & automation initiatives
-- DevOps & cloud architecture
-- Security research & labs
+Intereses: Cloud, seguridad, APIs, optimización SQL.
+Abierto a: proyectos de cloud, ciberseguridad, DevOps e integración.
 
 [![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=next.js)](https://nextjs.org/) [![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)](https://react.dev/) [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/) [![Zustand](https://img.shields.io/badge/Zustand-5-orange)](https://zustand-demo.pmnd.rs/) [![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-black?logo=vercel)](https://dillinger.io) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 <!-- 
